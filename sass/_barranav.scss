@@ -1,0 +1,96 @@
+
+.navprincipal {
+    list-style-type: none;
+    position: relative;
+}
+
+.navprincipal li{
+    padding: 10px;
+    margin: 10px;  
+    position: absolute;
+    text-align: center;
+}
+
+.logonav{
+    width: 140px;
+    top: 10px;
+}
+.iconos{
+     display: none;   
+}
+.iconoch{
+    display: none;
+}
+.botonn{
+    height: 45px;
+    top: 15px;
+}
+
+.enlaces {
+    color: black;
+    padding: 8px;
+    margin: 5px;
+    text-decoration: none;
+    background-color: #a5cf61;
+    opacity: .8;
+    border-radius: 15px;
+    font-size: 1.5vw;
+}
+
+.cedc{
+    background-color: pink;
+}
+
+.ceh{
+    background-color: rgb(102, 60, 240);
+}
+
+.enlaces:hover {
+    background-color: #a5cf61;
+    color: black;
+    opacity: 1;
+}
+
+.cedc:hover{
+    background-color: pink;
+}
+
+.ceh:hover {
+    background-color: #663cf0;
+    color: white;
+}
+
+.Inicio{
+    left: 15%;
+    width: 12%;
+}
+
+.Historia{
+    left: 25%;
+    width: 12%;
+}
+
+.Datos{
+    left: 36%;
+    width: 15%;
+}
+
+.Conoce{
+    left: 50%;
+    width: 14%;
+}
+
+.Donde{
+    left: 70%;
+    width: 18%;
+}
+
+.Nosotros{
+    left: 85%;
+    width: 12%;
+}
+
+header{
+    height: 150px;
+    width: 100%;
+}

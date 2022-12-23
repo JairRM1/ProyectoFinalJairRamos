@@ -1,0 +1,34 @@
+.bodycontact{
+    background-color: #8ba33c;
+    .tic{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-align: center;
+        font-size: 8vw;
+        color: #ffff;
+    }
+    .contacto{
+        margin: 0 auto;
+        border: 5px solid black;
+        width: 60%;
+        .formulario{
+            text-align: center;
+            margin: 0 auto;
+            background-color: beige;
+            display: flex;
+            flex-direction: column;
+            label{
+                padding-top: 3%;
+            }
+            .bf{
+                padding: 4% 0;
+            }
+        }
+    }
+}
+
+
+
+
+
+
